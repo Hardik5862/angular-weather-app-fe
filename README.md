@@ -1,4 +1,4 @@
-# Angular weather App
+# Angular Weather App
 
 It is a basic angular web app with one component and one service.
 
