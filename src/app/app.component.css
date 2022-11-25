@@ -1,3 +1,17 @@
-p {
-  font-family: Lato;
+.container {
+  margin: 10px 20px;
+}
+
+.select_country {
+  max-width: 200px;
+}
+
+.container hr {
+  margin-top: 25px;
+  border-top: 1px solid rgb(173, 173, 173);
+}
+
+.weather_data > div {
+  display: flex;
+  flex-direction: column;
 }
